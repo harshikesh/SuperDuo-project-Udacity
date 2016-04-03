@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_db59a92dd26f983dc5924baf8443fded8a3a43d1.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_fe1d2a57be774dfc8c4394bd1ea8e39b579ebfa7.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/glide-3.6.1_ba3f5361dad92427d0f718d85577fa119205073b.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_53984e7af992233499f0c47fd9f260f79b42c4ce.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_2427c09e2c3a427b5129f78999b26cc1df1fd15b.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_ce60b00d3e762b60a49d155e8139b1bb8a50c404.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_c77b0f0e0cc577132189c07e7d875aba144359eb.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/picasso-2.3.3_60d352c1e1924c660d4a84a28496f2333f443786.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_0a671bc1ca8127afe8e6af44438b2bbd2f0f73dd.jar" />
+    </item>
+    <item
+        jar="/Users/harshikesh.kumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/harshikesh.kumar/Downloads/Superduo/Football_Scores-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_edd9128636db7676908c912c935035e4e94f050e.jar" />
+    </item>
+
+</items>
