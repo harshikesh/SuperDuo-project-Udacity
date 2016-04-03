@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.harshikesh.alexandria" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ui.MainActivity"
+            android:configChanges="orientation"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="@string/title_activity_settings"
+            android:name=".ui.SettingsActivity"
+            android:parentActivityName=".ui.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.MainActivity" />
+        </activity>
+
+        <service
+            android:name="com.example.harshikesh.alexandria.services.BookService"
+            android:exported="false" />
+
+        <activity
+            android:name=".ui.ScanBarcode"
+            android:label="@string/title_activity_scan_barcode"
+            android:title="Scan Barcode"
+            android:parentActivityName=".ui.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+
+        <provider
+            android:name="com.example.harshikesh.alexandria.data.BookProvider"
+            android:authorities="com.example.harshikesh.alexandria"
+            android:exported="false" />
+        <service
+            android:name="com.example.harshikesh.alexandria.services.BookService"
+            android:exported="false" >
+        </service>
+
+        <activity
+            android:name=".ui.BookDetailActivity"
+            android:label="@string/title_activity_book_detail"
+            android:parentActivityName=".ui.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>
